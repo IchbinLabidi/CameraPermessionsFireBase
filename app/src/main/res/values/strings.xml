@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DetectProductQuality</string>
+    <string name="buttonValue">TakePicture</string>
+</resources>
